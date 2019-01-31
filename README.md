@@ -8,6 +8,7 @@ Some of the topics covered were:
 - Using the `react-testing-library` testing framework.
 - Writing unit tests for React components.
 - crying my eyes out
+- trying to remember branching
 
 ## Instructions
 
